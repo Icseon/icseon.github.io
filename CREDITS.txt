@@ -1,0 +1,49 @@
+AUDIO CREDITS
+=============
+
+The sound files in assets/audio/ were renamed after what they do in the page.
+Their original filenames, which carried the artist attribution, are noted
+here so the credit is not lost.
+
+  assets/audio/lofi-loop.mp3
+      original: zephiramusic-positive-lofi-587548.mp3
+      artist:   zephiramusic
+      title:    Positive Lofi
+      used for: background music, starts when the socials are revealed
+
+  assets/audio/reveal-bloop.mp3
+      original: floraphonic-marimba-bloop-1-188150.mp3
+      artist:   floraphonic
+      title:    Marimba Bloop 1
+      used for: chime when the social links appear
+
+  assets/audio/deny-error.mp3
+      original: universfield-error-notification-04-199275.mp3
+      artist:   universfield
+      title:    Error Notification 04
+      used for: blocked-visitor takeover
+
+  assets/audio/greet-beep.mp3
+      original: freesound_community-beep-6-96243.mp3
+      artist:   freesound_community
+      title:    Beep 6
+      used for: greeting a recognised visitor
+
+  assets/audio/type-tick.wav
+      original: very-soft-text-typing-sou-fv4utf6d.wav
+      artist:   not recorded in the filename
+      title:    Very Soft Text Typing
+      used for: keystroke tick while the caption types and while the
+                contact form is filled in
+      edit:     trimmed from 1.000s to 30ms with a 4ms fade-out. The source
+                held a single 15ms tick followed by 985ms of digital silence,
+                so 172KB became 5.3KB with no change to the audible sound.
+
+
+NOTE ON ACCURACY
+----------------
+
+Everything above is derived from the original filenames alone, which follow an
+artist-title-id naming pattern. The source and licence terms have not been
+verified. Confirm both before publishing or redistributing this page, and add
+the licence and a link to each track's page below once checked.
